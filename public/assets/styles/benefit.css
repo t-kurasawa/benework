@@ -1,0 +1,38 @@
+.bw-bar {
+  background: #333;
+  margin-bottom: 0;
+}
+
+.bw-container {
+  margin: 20px 100px 20px 100px;
+}
+
+.bw-cover {
+  background: url(/assets/imgs/lake.jpg) center/cover;
+  height: 350px;
+  margin-top: 0;
+}
+
+.bw-margin-bottom {
+  margin-bottom: 30px;
+}
+
+.bw-td-menu {
+  background: #efe;
+  text-align: center;
+  width: 200px;
+}
+
+.bw-tr > td {
+  height: 80px;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  vertical-align: middle !important;
+}
+
+.bw-user-pic {
+  background: url(/assets/imgs/lena.png) center/cover;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}

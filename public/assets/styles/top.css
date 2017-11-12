@@ -1,0 +1,40 @@
+.bw-banner {
+  background: url(/assets/imgs/leisure.jpg) center/cover;
+  color: #fff;
+  height: 400px;
+}
+
+/*.bw-banner::before {
+  background: rgba(50, 50, 10, 0.2);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: ' ';
+}*/
+
+.bw-blackbox {
+  background: rgba(0, 0, 0, 0.6);
+  border: none;
+}
+
+.bw-catchcopy {
+  margin-bottom: 30px;
+}
+
+.bw-center {
+  margin: auto;
+  width: 60%;
+}
+
+.bw-container-mini {
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 100px;
+}
+
+.bw-img {
+  height: 200px;
+  margin-bottom: 30px;
+}
+

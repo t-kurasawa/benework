@@ -1,0 +1,105 @@
+<article id="benefit" ng-controller="benefitController as bc" ng-init="bc.init()">
+  <link rel="stylesheet" href="/assets/styles/benefit.css">
+
+  <style type="text/css">
+  .bw-cover {
+    background: url({{ bc.data.photo }}) center/cover;
+    height: 350px;
+    margin-top: 0;
+  }
+
+  </style>
+    
+
+  <header>
+    <nav class="bw-bar navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span class="navbar-brand" style="color: #fff;">benework</span>
+        </div>
+      </div>
+    </nav>
+    <div class="bw-cover">
+    </div>
+  </header>
+
+  <main>
+    <div class="bw-container">
+      <div class="row">
+        <div class="col-xs-9 container">
+          <h2 class="bw-margin-bottom">{{ bc.data.title }}</h2>
+          <p class="bw-margin-bottom">{{ bc.data.description }}</p>
+          <table class="bw-margin-bottom table">
+            <tr class="bw-tr">
+              <td class="bw-td-menu">福利厚生名</td>
+              <td>{{ bc.data.title }}</td>
+            </tr>
+            <tr class="bw-tr">
+              <td class="bw-td-menu">提供企業名</td>
+              <td>野村総合研究所</td>
+            </tr>
+            <tr class="bw-tr">
+              <td class="bw-td-menu">利用料</td>
+              <td>{{ bc.data.price }}円 / 月</td>
+            </tr>
+            <tr class="bw-tr">
+              <td class="bw-td-menu">登録タグ一覧</td>
+              <td>
+                <h4>
+                  <span class="label label-default" ng-repeat="tag in bc.data.tags">{{ tag }}</span>
+                </h4>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="col-xs-3 container">
+          <button type="button" class="btn btn-block btn-lg btn-success bw-margin-bottom">登録する</button>
+          <h4>参加メンバー</h4>
+          <div class="panel panel-default">
+            <table class="table">
+              <tr>
+                <td>
+                  <span class="glyphicon glyphicon-plus text-success" aria-hidden="true"></span>
+                  メンバーを追加
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="bw-user-pic col-xs-3"></div>
+                  <div class="col-xs-9">山田 太郎</div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="bw-user-pic col-xs-3"></div>
+                  <div class="col-xs-9">鈴木 花子</div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="bw-user-pic col-xs-3"></div>
+                  <div class="col-xs-9">田中 和広</div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="input-group">
+                    <input type="text" class="form-control" aria-describedby="basic-addon2">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></span>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</article>
+

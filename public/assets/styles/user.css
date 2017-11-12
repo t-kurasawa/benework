@@ -1,0 +1,42 @@
+.bw-bar {
+  background: #333;
+  margin-bottom: 0;
+}
+
+.bw-cover {
+  background: url(/assets/imgs/lake.jpg) center/cover;
+  height: 350px;
+  margin-top: 0;
+}
+
+.bw-graph {
+  background: #ffe;
+  border: solid 1px #ccc;
+  height: 430px;
+  width: 100%;
+}
+
+.bw-table {
+  height: 430px;
+  width: 100%;
+}
+
+.bw-user-abstract {
+  margin-bottom: 50px;
+}
+
+.bw-user-info {
+  position: relative;
+  bottom: 100px;
+}
+
+.bw-user-name {
+  color: #fff;
+}
+
+.bw-user-pic {
+  background: url(http://www.bjin.me/images/202475.jpg) center/cover;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}

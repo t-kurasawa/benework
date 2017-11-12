@@ -1,0 +1,1097 @@
+{
+    "results": {
+        "api_version": "1.26",
+        "results_returned": "10",
+        "results_start": 1,
+        "shop": [{
+            "name_kana": "かんぜんこしついざかや　ほしよのうたげ　しんじゅくとうなんぐちてん",
+            "other_memo": "全室ブラックライトアート★☆十二星座を模した十二の個室！",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/55/77/P022685577/P022685577_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/55/77/P022685577/P022685577_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/55/77/P022685577/P022685577_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/55/77/P022685577/P022685577_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/55/77/P022685577/P022685577_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "70",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都新宿区新宿３-36-2 キリンビル３Ｆ（他社マップではなくホットペッパー地図をご参照ください。） ",
+            "mobile_access": "新宿駅東南口徒歩1分 東口徒歩3分 南口徒歩3分",
+            "id": "J001018608",
+            "lng": "139.7020043979",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし ：ビルの前にコインパーキング有！夜中まで営業しております！",
+            "non_smoking": "禁煙席なし ：完全分煙可、禁煙席のご要望は予約時にお申し付けください。",
+            "name": "星夜の宴 新宿東南口店",
+            "horigotatsu": "あり ：掘りごたつ席を多数ご用意！！柔らかいソファーベンチなので、長時間座ってもお尻が痛くなりません！",
+            "genre": {
+                "name": "居酒屋",
+                "catch": "完全個室居酒屋　新宿駅東南口&東口徒歩1分",
+                "code": "G001"
+            },
+            "open": "月～日、祝日、祝前日: 16:30～翌0:00 （料理L.O. 翌0:00 ドリンクL.O. 翌0:00）",
+            "tatami": "なし ：全席完全個室！少人数席も大人数席もございます。スリッパ常備なので、お席を立つ際もご安心♪",
+            "card": "利用可",
+            "charter": "貸切不可 ：50名様～OK！！閑散期は少人数の貸切も承りますので、お気軽にご相談ください！",
+            "wifi": "あり",
+            "sub_genre": {
+                "name": "ダイニングバー",
+                "code": "G002"
+            },
+            "equipment": "なし",
+            "shop_detail_memo": "ケーキの持ち込みOK！ドリンク持ち込みOK！",
+            "band": "不可",
+            "middle_area": {
+                "name": "新宿",
+                "code": "Y055"
+            },
+            "lat": "35.6898881260",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/94/84/P018759484/P018759484_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ001018608%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001018608/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ001018608/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "3000円 ",
+                "name": "3001～4000円",
+                "code": "B003"
+            },
+            "midnight": "営業している",
+            "lunch": "なし",
+            "english": "なし",
+            "close": "無休",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "",
+            "tv": "なし",
+            "private_room": "あり ：ゆったりくつろげる掘りごたつ個室多数！！ソファー席もあります！",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ001018608/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ001018608%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001018608/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J001018608&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "新宿東口",
+                "code": "XA00"
+            },
+            "sub_food": {
+                "name": "串焼き・串揚げ",
+                "code": "R006"
+            },
+            "barrier_free": "なし ：ビルの入口に段差が二段ございます。お声かけ頂ければ、スタッフが力をお貸しします。",
+            "wedding": "ケーキや設備の手配も可能ですので、お気軽にお問い合わせください！",
+            "access": "新宿駅東南口徒歩1分　新宿駅東口徒歩3分　新宿駅南口徒歩3分　【各路線からアクセス良好 × 集合&待ち合わせも容易】",
+            "ktai": "つながる ：ドコモ・ソフトバンク、AU、ともに通信良好",
+            "child": "お子様連れ歓迎 ：ママ会・ランチ会の利用も多数！お気軽にご相談ください！",
+            "capacity": "70",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "和風創作料理",
+                "code": "R021"
+            },
+            "free_food": "なし ：通常ご用意してませんが、半分貸切や全貸切の際はご相談に応じます。",
+            "station_name": "新宿",
+            "catch": "ブラックライトアート煌く 飲み放題コース2980円～",
+            "free_drink": "あり ：飲み放題コース2980円～、飲み放題単体1500円。曜日にかかわらず、三時間制に延長可能でございます。"
+        }, {
+            "name_kana": "かくれがこしつばる　のものも　しんじゅくひがしぐちてん",
+            "other_memo": "ソファーダイニング・個室・テーブル席には大型テレビ完備（ＤＶＤ持ち込みＯＫ）",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/40/14/P027344014/P027344014_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/40/14/P027344014/P027344014_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/40/14/P027344014/P027344014_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/40/14/P027344014/P027344014_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/40/14/P027344014/P027344014_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "60",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都新宿区歌舞伎町１-１５-８ 白木ビル３F",
+            "mobile_access": "3H飲み放題付き8品2498円～/JR新宿駅東口徒歩3分",
+            "id": "J001153158",
+            "lng": "139.7020669947",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし ：新宿という土地柄の為、専用の駐車場のご用意はありません。近くにパーキングを利用下さいませ。新宿駅近♪",
+            "non_smoking": "一部禁煙 ：全席喫煙ですがお煙草が苦手な方の配慮として周りのお客様との席の配慮させて頂きます。お申し付けください",
+            "name": "Nomo Nomo 飲も飲も 新宿東口店",
+            "horigotatsu": "なし ：残念ながら掘り炬燵はありませんが、新宿で個室居酒屋/女子会/誕生日/個室宴会/送別会/記念日/宴会に最適！",
+            "genre": {
+                "name": "居酒屋",
+                "catch": " 歓迎会/飲放プラン2498円/コース1000円off",
+                "code": "G001"
+            },
+            "open": "月～木、日、祝日: 15:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）金、土、祝前日: 15:00～翌5:00 （料理L.O. 翌4:30 ドリンクL.O. 翌4:30）",
+            "tatami": "なし ：残念ながらお座敷はありませんが、新宿で個室居酒屋/女子会/誕生日/個室宴会/送別会/記念日/宴会に最適！",
+            "card": "利用不可",
+            "charter": "貸切不可 ：40名様～最大60名様までOK！予算・人数・時間をお気軽にご相談下さい！≪各種宴会・歓送迎会≫",
+            "wifi": "あり",
+            "sub_genre": {
+                "name": "ダイニングバー",
+                "code": "G002"
+            },
+            "equipment": "あり",
+            "shop_detail_memo": "新宿店ではお昼のご宴会等、営業時間外の居酒屋宴会もお気軽にお問合せ下さい♪完全個室もご用意あります♪",
+            "band": "不可",
+            "middle_area": {
+                "name": "新宿",
+                "code": "Y055"
+            },
+            "lat": "35.6942634682",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/95/63/P025299563/P025299563_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ001153158%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001153158/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ001153158/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "2500円(3時間飲み放題付き8品2498円～/3h食べ飲み放題3298円♪)",
+                "name": "1501～2000円",
+                "code": "B001"
+            },
+            "midnight": "営業している",
+            "lunch": "なし",
+            "english": "あり",
+            "close": "毎日営業しているからうれしい♪無休休まず営業中☆新宿で個室女子会/誕生日/貸切/歓送迎会をお考えでしたら当店へお越し下さい",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "詳しくはスタッフまで",
+            "tv": "あり",
+            "private_room": "あり ：あり ：ソファー60席　大小個室4名様～最大60名様　★ソファーダイニング席には大型テレビを完備♪",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ001153158/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ001153158%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001153158/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J001153158&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "新宿東口",
+                "code": "XA00"
+            },
+            "sub_food": {
+                "name": "洋風創作料理",
+                "code": "R029"
+            },
+            "barrier_free": "なし ：新宿店にはご用意ありませんが、大きな段差はありません。不便な際はスタッフがお手伝いさせていただきます",
+            "wedding": "※貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。居酒屋/個室/記念日に",
+            "access": "JR新宿駅東口3分／西武新宿新宿駅徒歩2分　3H飲み放題付8品2498円※しゃぶしゃぶ食べ放題10品2998円3ｈ飲み放題コース",
+            "ktai": "つながる ：新宿店ではどの機種も繋がります。個室ご利用でも電波が入るように設定させて頂いています。ご心配なく♪♪",
+            "child": "お子様連れOK ：混み合う為、早めの時間帯でしたらお子様連れOKです。完全個室やソファー席もご用意していますのでご安心♪",
+            "capacity": "60",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "焼き鳥・鶏料理",
+                "code": "R005"
+            },
+            "free_food": "あり ：【たっぷり3時間食べ飲み放題♪】「満腹」食べ放題＆飲み放題4298円⇒3298円",
+            "station_name": "新宿",
+            "catch": "全コース「1000円OFF」♪ ソファー&個室ダイニング",
+            "free_drink": "あり ：100種以上の飲み放題付プラン"
+        }, {
+            "name_kana": "うおたみ　しながわひがしぐちえきまえてん",
+            "other_memo": "",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/76/99/P027207699/P027207699_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/76/99/P027207699/P027207699_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/76/99/P027207699/P027207699_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/76/99/P027207699/P027207699_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/76/99/P027207699/P027207699_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "200",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都港区港南２－６－７　品川ビル５・６Ｆ",
+            "mobile_access": "品川駅港南口を出て右斜めに曲がり徒歩1分",
+            "id": "J000010146",
+            "lng": "139.7426134101",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし",
+            "non_smoking": "一部禁煙 ：詳細はお問い合わせください。",
+            "name": "魚民 品川東口駅前店",
+            "horigotatsu": "なし ：詳細はお問い合わせください。",
+            "genre": {
+                "name": "居酒屋",
+                "catch": "[くつろぎの和空間][飲み放題・個室タイプ]",
+                "code": "G001"
+            },
+            "open": "月～金、祝前日: 11:30～翌5:00 （料理L.O. 翌4:30 ドリンクL.O. 翌4:30）土、日、祝日: 17:00～翌5:00 （料理L.O. 翌4:30 ドリンクL.O. 翌4:30）",
+            "tatami": "なし ：最大84名様まで収容可能。詳細はお問い合わせください。",
+            "card": "利用可",
+            "charter": "貸切不可 ：応相談",
+            "wifi": "あり",
+            "sub_genre": {
+                "name": "居酒屋",
+                "code": "G001"
+            },
+            "equipment": "あり",
+            "shop_detail_memo": "※メニュー変更があり、料金や内容に変更が生じることがあります。",
+            "band": "不可",
+            "middle_area": {
+                "name": "品川･目黒･田町･浜松町･五反田",
+                "code": "Y025"
+            },
+            "lat": "35.6284794567",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/50/41/P016225041/P016225041_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ000010146%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000010146/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ000010146/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "2500円※8/11～16の間、お盆特別料金として終日10%徴収致します",
+                "name": "2001～3000円",
+                "code": "B002"
+            },
+            "midnight": "営業している",
+            "lunch": "あり",
+            "english": "なし",
+            "close": "年中無休",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "チャージ料金389円/20歳～/カウンターを含む全席 (お通し込)",
+            "tv": "なし",
+            "private_room": "なし ：カラオケ付個室最大24名様まで利用可能。詳細はお問い合わせください。",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ000010146/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ000010146%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000010146/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J000010146&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "品川",
+                "code": "X075"
+            },
+            "sub_food": {
+                "name": "和風創作料理",
+                "code": "R021"
+            },
+            "barrier_free": "なし ：詳細はお問い合わせください。",
+            "wedding": "歓迎※ご相談ください。",
+            "access": "品川駅 港南口を出て右斜めに曲がり徒歩１分、インターシティ斜め前の赤い看板が目印です。",
+            "ktai": "未確認 ：詳細はお問い合わせください。",
+            "child": "お子様連れOK ：ご家族でもお食事可能です。",
+            "capacity": "245",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "和食全般",
+                "code": "R001"
+            },
+            "free_food": "なし",
+            "station_name": "品川",
+            "catch": "寛ぎの空間で美酒に酔う♪ お得な各種ご宴会コース☆",
+            "free_drink": "あり ：各種飲み放題付きコースをご用意しております。"
+        }, {
+            "name_kana": "こだわりもんいっかじんぼうちょうてん",
+            "other_memo": "",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/87/92/P027608792/P027608792_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/87/92/P027608792/P027608792_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/87/92/P027608792/P027608792_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/87/92/P027608792/P027608792_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/87/92/P027608792/P027608792_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "party_capacity": "60",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都千代田区神田神保町１-8-10ファンデス神保町10F",
+            "mobile_access": "神保町駅から徒歩1分 ",
+            "id": "J001178032",
+            "lng": "139.7589387533",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし",
+            "non_smoking": "禁煙席なし",
+            "horigotatsu": "あり ：掘りごたつ個室あり 1室/20名様用",
+            "name": "こだわりもん一家 神保町店",
+            "genre": {
+                "name": "居酒屋",
+                "catch": "神保町駅/個室/居酒屋/誕生日記念日/女子会",
+                "code": "G001"
+            },
+            "open": "月～土、祝前日: 17:00～翌0:30 （料理L.O. 翌0:00 ドリンクL.O. 翌0:00）日、祝日: 17:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+            "tatami": "なし",
+            "card": "利用可",
+            "charter": "貸切可",
+            "wifi": "なし",
+            "sub_genre": {
+                "name": "和食",
+                "code": "G004"
+            },
+            "shop_detail_memo": "",
+            "band": "不可",
+            "middle_area": {
+                "name": "神田・神保町・秋葉原・御茶ノ水",
+                "code": "Y020"
+            },
+            "lat": "35.6961333891",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/69/31/P000996931/P000996931_69.jpg",
+            "midnight": "営業している",
+            "budget": {
+                "average": "3,500円（通常平均）　4,000円（宴会平均）",
+                "name": "3001～4000円",
+                "code": "B003"
+            },
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ001178032%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001178032/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ001178032/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "lunch": "なし",
+            "english": "なし",
+            "close": "不定休日あり",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "お通し 350円(税抜)",
+            "tv": "あり",
+            "private_room": "あり ：掘りごたつ個室あり 1室/20名様用",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ001178032/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ001178032%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001178032/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J001178032&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "神保町",
+                "code": "X070"
+            },
+            "barrier_free": "なし",
+            "wedding": "お気軽に店舗までお問い合わせください",
+            "access": "神保町駅から徒歩1分　◆歓送迎会におすすめ",
+            "child": "お子様連れ歓迎",
+            "capacity": "60",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": null,
+                "code": ""
+            },
+            "free_food": "なし",
+            "station_name": "神保町",
+            "catch": "◆個室2名～最大60名様OK! ◆本格炉端焼きも10％OFF!",
+            "free_drink": "あり"
+        }, {
+            "name_kana": "ともる　ゆうらくちょうてん",
+            "other_memo": "",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/22/50/P025342250/P025342250_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/22/50/P025342250/P025342250_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/22/50/P025342250/P025342250_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/22/50/P025342250/P025342250_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/22/50/P025342250/P025342250_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "30",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都千代田区有楽町２－３－５　ＡＵＮＥ有楽町４Ｆ",
+            "mobile_access": "JR有楽町駅銀座口2分/銀座駅C1 3分/日比谷駅1分",
+            "id": "J000650528",
+            "lng": "139.7616149986",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし",
+            "non_smoking": "一部禁煙 ：Ｌ字ソファーシートと窓際カウンターシートは禁煙フロアになります。",
+            "name": "点 トモル TOMORU 有楽町店",
+            "horigotatsu": "あり ：夜景の見える個室もご用意しております。",
+            "genre": {
+                "name": "ダイニングバー",
+                "catch": "有楽町 日比谷 個室　歓送迎会 合コン 個室",
+                "code": "G002"
+            },
+            "open": "月、火: 18:00～23:00水、木: 18:00～23:30金、祝前日: 18:00～翌0:00土: 17:00～23:00日、祝日: 17:00～22:00",
+            "tatami": "なし ：夜景の見える個室もご用意しております。",
+            "card": "利用可",
+            "charter": "貸切可",
+            "wifi": "あり",
+            "sub_genre": {
+                "name": "居酒屋",
+                "code": "G001"
+            },
+            "equipment": "なし",
+            "shop_detail_memo": "※電話予約の受付は12時より承ります。",
+            "band": "不可",
+            "middle_area": {
+                "name": "銀座・有楽町・新橋・築地・月島",
+                "code": "Y005"
+            },
+            "lat": "35.6733115857",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/14/80/P023031480/P023031480_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ000650528%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000650528/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ000650528/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "4,000円（通常平均）、5,000円（宴会平均）",
+                "name": "4001～5000円",
+                "code": "B008"
+            },
+            "midnight": "営業している",
+            "lunch": "なし",
+            "english": "あり",
+            "close": "無",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "サービス料 10％ 、お通し代400円　※コースはサ料込",
+            "tv": "あり",
+            "private_room": "あり ：大小個室20室(4名/6名/8名/10名/最大30名様）パノラマ夜景の完全個室あり！",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ000650528/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ000650528%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000650528/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J000650528&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "有楽町",
+                "code": "X015"
+            },
+            "sub_food": {
+                "name": "イタリア料理",
+                "code": "R024"
+            },
+            "barrier_free": "あり ：車いすで入店可。バリアフリーの詳細はお店にお問合せください。",
+            "wedding": "お問い合わせくださいませ",
+            "access": "JR有楽町駅　銀座口徒歩2分／地下鉄日比谷駅Ａ1出口　徒歩1分／地下鉄銀座駅Ｃ1出口　徒歩3分／JR新橋駅　徒歩10分",
+            "ktai": "つながる",
+            "child": "お子様連れOK",
+            "capacity": "118",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "洋食全般",
+                "code": "R022"
+            },
+            "free_food": "なし",
+            "station_name": "有楽町",
+            "catch": "【L字カップルシート♪】 【銀座の夜景を一望◎】",
+            "free_drink": "あり"
+        }, {
+            "name_kana": "しゃぶしゃぶかんぜんこしつ　ともりはままつちょうだいもんてん",
+            "other_memo": "会社宴会・女子会や誕生日は浜松町で人気の個室居酒屋で♪さらに土・日がお得☆",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/84/91/P027518491/P027518491_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/84/91/P027518491/P027518491_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/84/91/P027518491/P027518491_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/84/91/P027518491/P027518491_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/84/91/P027518491/P027518491_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "40",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都港区浜松町２-1-20SVAX大門ビル7F",
+            "mobile_access": "浜松町駅徒歩1分/大門駅徒歩0分出てすぐ",
+            "id": "J001050279",
+            "lng": "139.7549651267",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし",
+            "non_smoking": "一部禁煙 ：完全個室のお席をご用意♪　分煙された空間は妊婦様やタバコの苦手なお客様でも満足頂けること間違いなし♪",
+            "name": "竹庭 ともり TOMORI 浜松町・大門店",
+            "horigotatsu": "あり ：掘りごたつのお席も完備しております。",
+            "genre": {
+                "name": "居酒屋",
+                "catch": "浜松町/大門/居酒屋/完全個室/しゃぶしゃぶ",
+                "code": "G001"
+            },
+            "open": "月～木、土、日、祝日: 16:00～翌0:00金、祝前日: 16:00～翌5:00",
+            "tatami": "なし ：座敷は2名様から最大20名様までご案内できます。",
+            "card": "利用可",
+            "charter": "貸切不可 ：予算・人数・時間をお気軽にご相談下さい。店舗貸切、大部屋貸切。お気軽にご連絡くださいませ。",
+            "wifi": "未確認",
+            "sub_genre": {
+                "name": "居酒屋",
+                "code": "G001"
+            },
+            "equipment": "なし",
+            "shop_detail_memo": "お客様のご予算に合わせて様々なプランをご用意しております。",
+            "band": "不可",
+            "middle_area": {
+                "name": "品川･目黒･田町･浜松町･五反田",
+                "code": "Y025"
+            },
+            "lat": "35.6565071882",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/71/91/P026797191/P026797191_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ001050279%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001050279/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ001050279/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "3500円(通常平均)/4000円(宴会平均)/※厳選8品飲み放題付3980円",
+                "name": "3001～4000円",
+                "code": "B003"
+            },
+            "midnight": "営業している",
+            "lunch": "あり",
+            "english": "なし",
+            "close": "年中無休会社宴会・歓送迎会や誕生日は浜松町で人気の個室居酒屋で♪",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "お通し代324円",
+            "tv": "なし",
+            "private_room": "あり ：個室は2名様から最大30名様迄ご案内できます。",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ001050279/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ001050279%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001050279/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J001050279&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "浜松町",
+                "code": "X085"
+            },
+            "sub_food": {
+                "name": "和食全般",
+                "code": "R001"
+            },
+            "barrier_free": "なし",
+            "wedding": "大部屋での貸切営業もご対応できますので、お気軽にご連絡下さい。",
+            "access": "ＪＰ山手線　浜松町駅徒歩1分/地下鉄都営浅草線・都営大江戸線 大門駅徒歩0分　浜松町、大門で居酒屋・宴会/昼宴会/接待",
+            "ktai": "つながる ：各メーカーの電波はもちろんのこと各種wifiも設置させて頂いています♪",
+            "child": "お子様連れ歓迎 ：完全個室でご案内可能ですので、周りを気にせずお食事いただけます。お子様連れに座敷席もございます。",
+            "capacity": "100",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "しゃぶしゃぶ",
+                "code": "R008"
+            },
+            "free_food": "なし",
+            "station_name": "浜松町",
+            "catch": "個室⇒2～40名様対応！ 栗豚/鮮魚宴会3480円♪",
+            "free_drink": "あり ：１００種類以上の飲み放題をご用意しております。飲み放題の内容のご相談はお気軽にお問合せください。"
+        }, {
+            "name_kana": "ぎゅうたんととりりょうりせんもんてん　こしついざかや　とりたん　かまたてん",
+            "other_memo": "",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/83/07/P027268307/P027268307_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/83/07/P027268307/P027268307_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/83/07/P027268307/P027268307_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/83/07/P027268307/P027268307_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/83/07/P027268307/P027268307_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "80",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都大田区西蒲田７‐６７‐１４　三晃ビル３F",
+            "mobile_access": "JR蒲田駅西口2分!飲み放題付ｺｰｽ2980円～!",
+            "id": "J000957595",
+            "lng": "139.7140501588",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし",
+            "non_smoking": "禁煙席なし",
+            "name": "牛タン 鶏料理 とりタン 蒲田店",
+            "horigotatsu": "なし ：なし",
+            "genre": {
+                "name": "居酒屋",
+                "catch": "蒲田1分 個室 バル 京急蒲田 牛タン 歓迎会",
+                "code": "G001"
+            },
+            "open": "月～木、日、祝日: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金、土、祝前日: 16:00～翌4:30 （料理L.O. 翌3:00 ドリンクL.O. 翌3:30）",
+            "tatami": "あり ：8名様向け座敷×2",
+            "card": "利用可",
+            "charter": "貸切不可 ：60名様～100名様で貸切が可能です。",
+            "wifi": "あり",
+            "sub_genre": {
+                "name": "ダイニングバー",
+                "code": "G002"
+            },
+            "equipment": "なし",
+            "shop_detail_memo": "",
+            "band": "不可",
+            "middle_area": {
+                "name": "蒲田・大森・大田区",
+                "code": "Y026"
+            },
+            "lat": "35.5619917287",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/83/03/P027268303/P027268303_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ000957595%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000957595/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ000957595/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "2,500円(通常平均) 3,000円(宴会平均)",
+                "name": "2001～3000円",
+                "code": "B002"
+            },
+            "midnight": "営業している",
+            "lunch": "なし",
+            "english": "なし",
+            "close": "無休",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "お通し代 380円",
+            "tv": "なし",
+            "private_room": "あり ：最大24名様お座敷個室がございます。2名様～4名様の個室も充実！",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ000957595/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ000957595%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000957595/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J000957595&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "蒲田",
+                "code": "X281"
+            },
+            "sub_food": {
+                "name": "洋食全般",
+                "code": "R022"
+            },
+            "barrier_free": "なし",
+            "wedding": "大歓迎！貸切ご宴会もご相談ください。",
+            "access": "JR蒲田駅西口徒歩2分。バーボン通りの入って一つ目の十字路右ビルの3階です。最大3時間飲み放題付コース2980円～！",
+            "ktai": "つながる",
+            "child": "お子様連れ歓迎",
+            "capacity": "80",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "焼き鳥・鶏料理",
+                "code": "R005"
+            },
+            "free_food": "なし ：単品飲み放題2時間1800円⇒クーポンご利用で1000円！",
+            "station_name": "蒲田",
+            "catch": "お洒落な個室で寛ぎタイム 宴会に人気ハイボール追加",
+            "free_drink": "あり ：単品飲み放題2時間1800円⇒クーポンご利用で1000円！"
+        }, {
+            "name_kana": "ちゅうかいざかや　とうほういっかく　しんじゅくぎょえんまえてん",
+            "other_memo": "9名様用の円卓3つご用意！立食込最大120名様迄承ります！新宿駅周辺での宴会は当店で!",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/04/22/P026880422/P026880422_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/04/22/P026880422/P026880422_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/04/22/P026880422/P026880422_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/04/22/P026880422/P026880422_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/04/22/P026880422/P026880422_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "100",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都新宿区新宿１-3-8 YKB新宿御苑B1",
+            "mobile_access": "新宿御苑駅 2番出口1分/新宿三丁目駅7分",
+            "id": "J000728952",
+            "lng": "139.7121924940",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし ：近隣の駐車場をご案内致します。",
+            "non_smoking": "禁煙席なし ：お席等、お気軽に店舗へお問合せ下さい。ご要望に応じてレイアウト等ご案内致します。",
+            "name": "東方一角 新宿御苑前店",
+            "horigotatsu": "なし ：掘りごたつのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい",
+            "genre": {
+                "name": "居酒屋",
+                "catch": "オーダー式本格中華80種が2200円で食べ放題",
+                "code": "G001"
+            },
+            "open": "月～日、祝日、祝前日: 11:00～15:00 （料理L.O. 14:30 ドリンクL.O. 14:30）17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+            "tatami": "なし ：お座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい",
+            "card": "利用不可",
+            "charter": "貸切可 ：80名様～最大120名様まで承ります！新宿駅、新宿御苑駅、四谷周辺でのご宴会は是非東方一角新宿御苑店で！",
+            "wifi": "なし",
+            "sub_genre": {
+                "name": "中華",
+                "code": "G007"
+            },
+            "equipment": "なし",
+            "shop_detail_memo": "各種飲み放題付きコース等をご用意しております。東方一角新宿御苑店",
+            "band": "不可",
+            "middle_area": {
+                "name": "新宿",
+                "code": "Y055"
+            },
+            "lat": "35.6880636037",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/90/01/P027419001/P027419001_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ000728952%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000728952/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ000728952/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "3000円",
+                "name": "2001～3000円",
+                "code": "B002"
+            },
+            "midnight": "営業していない",
+            "lunch": "あり",
+            "english": "なし",
+            "close": "年中無休で営業しております！ご予約は「HOTPEPPERを見た」とお伝え下さい♪お得なクーポンやコースもご用意しております！",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "単品注文の場合はお通し200円",
+            "tv": "なし",
+            "private_room": "あり ：半個室5つ／半個室最大収容人数70名／新宿御苑駅から徒歩2分の好立地☆幹事様も安心です！",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ000728952/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ000728952%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000728952/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J000728952&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "新宿三丁目",
+                "code": "XA06"
+            },
+            "sub_food": {
+                "name": "鍋料理",
+                "code": "R007"
+            },
+            "barrier_free": "なし ：地下階の店舗になっております。ご来店の際はお気軽にご相談下さい。個室席もご用意♪",
+            "wedding": "バースデーパーティーや結婚式2次会の演出もお手伝いします。詳しくはお問合せ下さい ",
+            "access": "地下鉄丸ノ内線新宿御苑前駅 2番出口 徒歩1分／都営新宿線新宿三丁目駅 徒歩7分。（新宿 中華料理 食べ放題)",
+            "ktai": "つながる ：docomo/au/softbank/willcomの通信OKです（一部お席は繋がりにくい所もございます）auが一部つながりにくい",
+            "child": "お子様連れ歓迎 ：お子様用のイスをご用意♪個室も完備なので小さなお子様連れでも安心です♪",
+            "capacity": "100",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "中華料理",
+                "code": "R036"
+            },
+            "free_food": "あり ：本格中華料理80種が2200円で食べ放題！大好評のコストパフォーマンスでご宴会を盛り上げます！",
+            "station_name": "新宿御苑前",
+            "catch": "本格中華食べ放題2200円 単品飲み放題　1890円",
+            "free_drink": "あり ：宴会特典★満腹大皿コース《2ｈ飲み放題付き》3500円！＋500円で3ｈ飲み放題"
+        }, {
+            "name_kana": "ひつじにくさかば　ごだい　やえすぐちてん",
+            "other_memo": "",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/05/49/P026170549/P026170549_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/05/49/P026170549/P026170549_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/05/49/P026170549/P026170549_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/05/49/P026170549/P026170549_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/05/49/P026170549/P026170549_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都中央区八重洲１-8-3　黒龍八重洲ビル5階",
+            "mobile_access": "JR東京駅 八重洲中央口よりすぐ!",
+            "id": "J001170622",
+            "lng": "139.7700398188",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし",
+            "non_smoking": "未確認",
+            "name": "羊肉酒場 悟大 八重洲口店",
+            "horigotatsu": "なし",
+            "genre": {
+                "name": "焼肉・韓国料理",
+                "catch": "【上質ラム×網焼き】ジンギスカン専門店",
+                "code": "G008"
+            },
+            "open": "月～土、祝日、祝前日: 17:00～23:00 （料理L.O. 22:00 ドリンクL.O. 22:30）",
+            "tatami": "なし",
+            "card": "利用可",
+            "charter": "貸切不可",
+            "wifi": "未確認",
+            "sub_genre": {
+                "name": "居酒屋",
+                "code": "G001"
+            },
+            "equipment": "なし",
+            "shop_detail_memo": "",
+            "band": "不可",
+            "middle_area": {
+                "name": "東京・大手町・日本橋・人形町",
+                "code": "Y010"
+            },
+            "lat": "35.6807190327",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/26/80/P024202680/P024202680_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ001170622%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001170622/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ001170622/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "3500円（税抜）",
+                "name": "3001～4000円",
+                "code": "B003"
+            },
+            "midnight": "営業していない",
+            "lunch": "なし",
+            "english": "なし",
+            "close": "日",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "",
+            "tv": "なし",
+            "private_room": "なし",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ001170622/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ001170622%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ001170622/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J001170622&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "八重洲",
+                "code": "X040"
+            },
+            "barrier_free": "なし",
+            "wedding": "",
+            "access": "JR東京駅 八重洲中央口よりすぐ！",
+            "ktai": "つながる",
+            "child": "お子様連れOK",
+            "capacity": "120",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "焼肉・ホルモン・ジンギスカン",
+                "code": "R040"
+            },
+            "free_food": "あり",
+            "station_name": "東京",
+            "catch": "7月宴会特典充実 北海道直送のこだわり♪",
+            "free_drink": "あり"
+        }, {
+            "name_kana": "あんてぃーくびあばる　うすけぼー　みなみあおやまてん",
+            "other_memo": "ウエディング、日曜・時間外営業応相談です！高級感ある店内でぜひパーティーを",
+            "photo": {
+                "pc": {
+                    "l": "https://imgfp.hotp.jp/IMGH/72/71/P026527271/P026527271_238.jpg",
+                    "m": "https://imgfp.hotp.jp/IMGH/72/71/P026527271/P026527271_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/72/71/P026527271/P026527271_58_s.jpg"
+                },
+                "mobile": {
+                    "l": "https://imgfp.hotp.jp/IMGH/72/71/P026527271/P026527271_168.jpg",
+                    "s": "https://imgfp.hotp.jp/IMGH/72/71/P026527271/P026527271_100.jpg"
+                }
+            },
+            "large_area": {
+                "name": "東京",
+                "code": "Z011"
+            },
+            "sommelier": "いない",
+            "party_capacity": "50",
+            "large_service_area": {
+                "name": "関東",
+                "code": "SS10"
+            },
+            "address": "東京都港区南青山５－４－３１　ニッカウヰスキー本社ビルＢ１Ｆ",
+            "mobile_access": "東京ﾒﾄﾛ表参道駅 B1･B3出口 徒歩6分",
+            "id": "J000010613",
+            "lng": "139.7140045048",
+            "course": "あり",
+            "show": "なし",
+            "parking": "なし ：駐車場のご用意はございませんので、お手数ですがお近くのパーキングに駐車いただくようお願い致します",
+            "non_smoking": "一部禁煙 ：禁煙個室のご用意が可能です。ご希望の方はご予約の際お申し付けくださいますようお願い申し上げます",
+            "name": "アンティークビアバル うすけぼー 南青山店",
+            "horigotatsu": "なし ：アサヒスーパードライで煮込み柔らかく仕上げた牛ほほ肉はぜひお召し上がりいただきたい逸品です",
+            "genre": {
+                "name": "ダイニングバー",
+                "catch": "表参道 洋食 居酒屋 レストラン バル 貸切",
+                "code": "G002"
+            },
+            "open": "月～土、祝前日: 11:30～14:30 （料理L.O. 14:00 ドリンクL.O. 14:00）17:00～22:30 （料理L.O. 22:00 ドリンクL.O. 22:00）",
+            "tatami": "なし ：料理人自慢のお料理とベルギーのクラフトビール・アサヒ・ニッカを主体とした美酒を用意しております",
+            "card": "利用可",
+            "charter": "貸切不可 ：全125席。マイク・プロジェクタは持ち込み制になります。ご不明な点は店舗まで。お待ちしております",
+            "wifi": "未確認",
+            "sub_genre": {
+                "name": "創作料理",
+                "code": "G003"
+            },
+            "equipment": "なし",
+            "shop_detail_memo": "大航海時代を彷彿とさせる船内をイメージとしたメインホールでゆっくりお食事をお楽しみください",
+            "band": "不可",
+            "middle_area": {
+                "name": "原宿・青山・表参道",
+                "code": "Y035"
+            },
+            "lat": "35.6617971652",
+            "karaoke": "なし",
+            "logo_image": "https://imgfp.hotp.jp/IMGH/70/83/P016777083/P016777083_69.jpg",
+            "urls": {
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FstrJ000010613%2F%3Fuid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000010613/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/strJ000010613/?uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "budget": {
+                "average": "ランチ800円／ディナー5500円／PARTY4000円～",
+                "name": "3001～4000円",
+                "code": "B003"
+            },
+            "midnight": "営業していない",
+            "lunch": "あり",
+            "english": "なし",
+            "close": "日、祝日",
+            "service_area": {
+                "name": "東京",
+                "code": "SA11"
+            },
+            "budget_memo": "サービス料10％（ディナー）",
+            "tv": "あり",
+            "private_room": "あり ：2名様～最大40名様個室をご用意致しました。人数様に応じてお席のご相談承ります",
+            "coupon_urls": {
+                "sp": "https://www.hotpepper.jp/strJ000010613/scoupon/?vos=nhppalsa000016",
+                "qr": "http://webservice.recruit.co.jp/common/qr?url=http%3A%2F%2Fhpr.jp%2FS%2FS511.jsp%3FSP%3DJ000010613%26uid%3DNULLGWDOCOMO%26vos%3Dhpp337",
+                "pc": "https://www.hotpepper.jp/strJ000010613/map/?vos=nhppalsa000016",
+                "mobile": "http://hpr.jp/S/S511.jsp?SP=J000010613&uid=NULLGWDOCOMO&vos=hpp336"
+            },
+            "small_area": {
+                "name": "青山",
+                "code": "X105"
+            },
+            "sub_food": {
+                "name": "その他各国料理",
+                "code": "R027"
+            },
+            "barrier_free": "なし ：バリアフリー施設のご用意はございません。お手伝いが必要な方はスタッフまでご相談くださいませ",
+            "wedding": "大小個室が充実しているので、ワイワイ騒いでも大丈夫◎大歓迎です！",
+            "access": "東京メトロ 表参道駅（銀座線、半蔵門線、千代田線)B1・B3出口 徒歩6分/表参道駅から396m【ランチ/貸切/個室/バル】",
+            "ktai": "つながる ：日本のビールとはまた一味違う個性的な香りのベルギーのクラフトビールをご堪能いただけます。",
+            "child": "お子様連れOK ：ご家族でのお食事にもご利用いただけます。船室のような個室席はお子様もお喜びいただけること間違いなし",
+            "capacity": "125",
+            "open_air": "なし",
+            "pet": "不可",
+            "ktai_coupon": "0",
+            "food": {
+                "name": "洋風創作料理",
+                "code": "R029"
+            },
+            "free_food": "なし ：ビールにもウィスキーにも合う美味しい洋食をご用意しております。立食パーティーも対応可！",
+            "station_name": "表参道",
+            "catch": "ワインビールカクテル多数 歓送迎会・パーティーに！",
+            "free_drink": "あり ：飲み放題付パーティーコースのご用意ございます。大人数での宴会にもぴったり！ご予約はお早めに"
+        }],
+        "results_available": 28298
+    }
+}

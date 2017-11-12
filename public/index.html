@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/styles/master.css">
+    <title>benework</title>
+  </head>
+  <body ng-app="benework">
+    <article>
+      <a ui-sref="top">Top</a>
+      <a ui-sref="user">User</a>
+      <a ui-sref="benefit">Benefits</a>
+    </article>
+    <ui-view></ui-view>
+
+    <script src="/axios/dist/axios.min.js" charset="utf-8"></script>
+
+    <script src="/angular/angular.min.js" charset="utf-8"></script>
+    <script src="/angular-ui-router/release/angular-ui-router.min.js" charset="utf-8"></script>
+    <script src="/jquery/dist/jquery.min.js" charset="utf-8"></script>
+    <script src="/bootstrap/dist/js/bootstrap.min.js" charset="utf-8"></script>
+
+    <script src="/vis/dist/vis.js" charset="utf-8"></script>
+    <script src="/firebase/firebase.js" charset="utf-8"></script>
+    <script src="/firebase/firebase-database.js" charset="utf-8"></script>
+    <script src="/assets/data/fbconfig.js" charset="utf-8"></script>
+    <script> firebase.initializeApp(firebaseconfig); </script>
+
+    <script src="/assets/scripts/common/benework.module.js" charset="utf-8"></script>
+    <script src="/assets/scripts/common/benework.config.js" charset="utf-8"></script>
+    <script src="/assets/scripts/common/benework.controller.js" charset="utf-8"></script>
+    <script src="/assets/scripts/components/benefit/benefit.controller.js" charset="utf-8"></script>
+    <script src="/assets/scripts/components/top/top.controller.js" charset="utf-8"></script>
+    <script src="/assets/scripts/components/user/user.controller.js" charset="utf-8"></script>
+  </body>
+</html>
